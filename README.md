@@ -1,4 +1,4 @@
-# Netflix-intro-animation
+# Netflix-Intro-Animation
 
 Netflix intro animation pure css
 
